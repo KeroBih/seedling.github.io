@@ -147,6 +147,10 @@ li:hover ul.dropdown-c {
     border-collapse: collapse;
 }
 
+.btn:hover {
+    background-color: #393535;
+}
+
 .modal h5 {
     color: black;
     text-align: left;
