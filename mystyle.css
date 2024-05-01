@@ -911,3 +911,31 @@ form {
     display: flex;
     height: 24px
 }
+
+/* FAQ */
+
+.question {
+    width: 90%
+}
+
+.question h3 {
+    color: #47C200;
+    font-family: "League Spartan", sans-serif;
+    font-weight: 600;
+    font-size: 20pt;
+    text-align: left;
+    width: 100%
+}
+
+.answer {
+    width: 90%
+}
+
+.answer h3 {
+    color: black;
+    font-family: "League Spartan", sans-serif;
+    font-weight: 400;
+    font-size: 20pt;
+    text-align: left;
+    width: 100%
+}
