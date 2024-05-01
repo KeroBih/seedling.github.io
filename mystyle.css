@@ -840,7 +840,7 @@ form {
     width: 80%;
     padding-top: 10px;
     padding-bottom: 10px;
-    column-gap: 0px;
+    column-gap: 40px;
 }
 
 .col-sm-2 {
