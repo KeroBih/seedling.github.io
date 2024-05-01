@@ -660,7 +660,7 @@ h6 {
     width: 90%;
     display: flex;
     flex-wrap: wrap;
-    column-gap: 10px;
+    column-gap: 30px;
     padding-bottom: 80px;
 }
 
