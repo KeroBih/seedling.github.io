@@ -165,7 +165,7 @@ li:hover ul.dropdown-c {
 .jumbotron {
     width: 100%;
     height: 600px;
-    background-image: url(video-sample1.gif);
+    background-image: url(../images/video-sample.gif);
     background-size: cover;
     border-radius: 0px;
 }
@@ -538,7 +538,7 @@ h6 {
 
 .submenu {
     display: none;
-    background: #444359;
+    background: #4a4a4a;
     font-size: 16px;
 }
 
@@ -556,7 +556,7 @@ h6 {
 }
 
 .submenu a:hover {
-    background: #b63b4d;
+    background: #000000;
     color: #fff;
 }
 
@@ -641,7 +641,7 @@ h6 {
 }
 
 .auditions {
-    background-color: rebeccapurple;
+    background-color: #ac40ff;
     border-radius: 30px;
     width: 100%;
     height: 100%;
@@ -891,7 +891,7 @@ form {
     width: 40%;
     display: inline-flex;
     padding-left: 0px;
-    margin-right: 290px
+    margin-right: 290px;
 }
 
 .quantity {
@@ -899,15 +899,19 @@ form {
 }
 
 .store-button h5 {
-    color: #256400;
-    width: 100%;
-    text-align: left;
+    color: black;
+    width: 130px;
     padding-left: 10px;
     font-size: 18px;
     padding-top: 5px;
+    margin-top: 10px;
     padding-bottom: 5px;
     font-family: "League Spartan", sans-serif;
     font-weight: 600;
+    background-color: #9DE2C4;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
 }
 
 .quantity-box {
@@ -1088,4 +1092,14 @@ form {
 
 .col-xl-7 p {
     padding-left: 10px;
+}
+
+/* BAG */
+
+.bag {
+    width: 70%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 30px;
 }
